@@ -1,6 +1,6 @@
 # Spoti_Daily_Mix
 
-Download your Daily Mixes and Discover Weekly Playlists using this program. 
+Download your Daily Mixes and Discover Weekly Playlists and anyother liked Playlist. Provides a terminal download manager to properly manage your downloads.  
 
 ## Installation
 
